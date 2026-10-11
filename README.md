@@ -35,7 +35,4 @@ Demonstrar na prática como funciona a tecnologia de OCR (Reconhecimento Óptico
 
 ---
 
-##  Autora
-
-Projeto desenvolvido por **Alanna Cavalcante de Albuquerque**  
 Bootcamp Nublify - Primeiros passos em IA e Cloud (DIO).
